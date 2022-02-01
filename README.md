@@ -5,4 +5,4 @@ In this design the stator (outer.stl) contains N (48 in this case) teeths. And t
 
 The advantage of is design over the harmonic drive is its low cost and small size. The design works fine with relative large tolerance of making. Compared to Cycloidal drive, the actuator run with balanced force. Hence, it conducts less vibaration.  
 
-The specific stl components uploaded here are for showing how. Those are modified to fit the tolerance and capbilitiy of low cost 3D printer.  
+The specific stl components uploaded here are for showing how. Those are modified to fit the tolerance and capbilitiy of low cost 3D printer. 
